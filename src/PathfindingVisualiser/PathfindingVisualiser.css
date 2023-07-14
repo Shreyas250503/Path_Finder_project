@@ -1,0 +1,25 @@
+.grid {
+    margin: 50px 0 0;
+  }
+
+  .but{
+
+    background-color: teal;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  .but:hover{
+    cursor: pointer;
+    background-color: orange;
+    border: 1px solid red;
+    box-shadow: 1px 1px rgb(140, 130, 130) ;
+    
+  }
+
+  
